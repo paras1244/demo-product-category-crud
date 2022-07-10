@@ -25,9 +25,9 @@ source venv/bin/activate
 
 
 # clone the project
-git clone https://github.com/paras1244/demp-product-category-crud.git 
+git clone https://github.com/paras1244/demo-product-category-crud.git 
 
-cd demp-product-category-crud
+cd demo-product-category-crud
 
 # installing dependeicies
 pip install -r requirements.txt
