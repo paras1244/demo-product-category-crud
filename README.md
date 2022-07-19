@@ -11,7 +11,7 @@ Implimenting the self foreign key that will solve the problem to add catagory.
 
 hello All
 My name is paras,
-
+please check the postman collection as well (may values are different)
 
 # steps to follow
 open terminal
